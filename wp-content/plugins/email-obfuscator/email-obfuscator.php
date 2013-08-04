@@ -63,7 +63,7 @@ function ai_rot13_callback($matches)
     
     // If the anchor tag in match, assume mailto link
     if (stristr('<a', $matches[0]) !== false) {
-        return $script . "<noscript>{$matches[3]} AT {$matches[4]} DOT {$matches[5]}</noscript>";
+        return $script . "<noscript>{$matches[3]} [SMURFETTE] {$matches[4]} [PUNKT] {$matches[5]}</noscript>";
     }
     
     return $script . "<noscript>{$matches[2]} AT {$matches[3]} DOT {$matches[4]}</noscript>";
