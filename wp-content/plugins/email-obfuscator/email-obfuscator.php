@@ -66,7 +66,7 @@ function ai_rot13_callback($matches)
         return $script . "<noscript>{$matches[3]} [SMURFETTE] {$matches[4]} [PUNKT] {$matches[5]}</noscript>";
     }
     
-    return $script . "<noscript>{$matches[2]} AT {$matches[3]} DOT {$matches[4]}</noscript>";
+    return $script . "<noscript>{$matches[2]} [smurfette] {$matches[3]} [punkt] {$matches[4]}</noscript>";
 }
 
 if (! function_exists('obfuscate_email')) {
