@@ -7,6 +7,7 @@
 Thumbs.db
 wp-config.php
 wp-content/uploads/
+media
 wp-content/blogs.dir/
 wp-content/upgrade/
 wp-content/backup-db/
