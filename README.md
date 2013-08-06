@@ -1,7 +1,8 @@
 #PRIT 13
+[Live "Preview" of PRIT '13 website](http://prit.chalmers.it/13/)
 
 ##What is PRIT 13?
-PRIT 13 aka prit13 is the new [P.R.I.T. website](http://prit.chalmers.it/13) launched 2013, when the new site were made we took the decision to make it Open Source for everyone to show our supprt to the Open-Source Movement.
+PRIT 13 aka prit13 is the new [P.R.I.T. website](http://prit.chalmers.it/13/) launched 2013, when the new site were made we took the decision to make it Open Source for everyone to show our supprt to the Open-Source Movement.
 
 ##What is PRIT?
 PRIT is an comittée under Chalmers Student Union belonging to "Teknologsektionen Informationsteknik". PRIT are responsible for the IT student society´s facilities.
